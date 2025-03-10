@@ -6,7 +6,7 @@ This project aims to introduce personality analysis into NHL scouting and drafti
 By analyzing draft prospect interviews, we extract and assess spoken responses to measure confidence levels and correlate them with NHL performance metrics like games played (GP), goals (G), assists (A), and points (Pts).
 
 ## Hypothesis
-Traditional scouting heavily relies on physical and technical abilities, but personality traits like confidence, discipline, and mental resilience may be just as important in determining NHL success. Players who exceed expectations may share common personality characteristics that were overlooked at the time of their draft.
+Traditional scouting heavily relies on physical and technical abilities, but personality traits like confidence, discipline, and mental resilience may be just as important in determining NHL success. Players who exceed expectations may share common personality characteristics that were overlooked or not fully analyzed at the time of their draft.
 
 ## Methodology
 ### Data Collection

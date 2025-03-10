@@ -35,9 +35,7 @@ Expand analysis to include discipline, work ethic, and leadership using NLP.
 Develop an AI-based personality profiling model to assist scouting.
 Compare confidence metrics with player development paths.
 ## Usage
-Run the answer extraction script to process player_transcripts.csv.
-Run the sentiment analysis script to generate confidence scores.
-Analyze correlations using the final dataset (playerResponses.csv merged with drafted_players.csv).
-Visualize results with a correlation heatmap.
+Run Confidence Model.ipynb to generate confidence scores.
+There are tools in the other scripts that were used in gathering the transcript and stats data, as well as testing examples such as refined transcripts refined using ChatGPT for 2016 1st round drafted players.
 ## Conclusion
 By incorporating personality assessment into prospect scouting, this project seeks to uncover hidden psychological traits that contribute to NHL success and help teams make more informed drafting decisions.
